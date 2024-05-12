@@ -1,4 +1,6 @@
-## Hi there 👋
+## open-vcpkg
+
+open-vcpkg is a community driven effort to provide additional things for vcpkg.
 
 <!--
 
